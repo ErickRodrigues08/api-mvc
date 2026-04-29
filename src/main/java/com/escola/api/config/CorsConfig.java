@@ -22,6 +22,7 @@ public class CorsConfig {
             "http://127.0.0.1:8081",
             "http://127.0.0.1:19000"
         ));
+        //teste
         
         // OU use patterns se precisar de mais flexibilidade:
         // config.setAllowedOriginPatterns(List.of("*"));
